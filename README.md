@@ -8,6 +8,7 @@ THIS FIELD IS STILL IN A VERLY EARLY DEVELOPMENT STAGE. Testing, report bugs and
 [![Total Downloads](https://img.shields.io/packagist/dt/operativeit/nova-feedback-field.svg?style=flat-square)](https://packagist.org/packages/operativeit/nova-rating-field)
 ![GitHub forks](https://img.shields.io/github/forks/operativeit/nova-feedback-field)
 ![GitHub issues](https://img.shields.io/github/issues/operativeit/nova-feedback-field)
+[![License](https://img.shields.io/packagist/l/operativeit/nova-feedback-field)](https://github.com/operativeit/nova-feedback-field/blob/master/LICENSE)
 
 ![imagen](https://github.com/operativeit/nova-feedback-field/assets/188766/82a4115c-ab08-439f-b858-1266536fd5c2)
 
