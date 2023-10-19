@@ -44,7 +44,7 @@ Please give a ⭐️ if this project helped you!
 - [Nova Rating Field](https://github.com/operativeit/nova-rating-field) - A Star rating field to use in your Laravel Nova apps.
 - [Nova Input Group](https://github.com/operativeit/nova-input-group) - A Laravel Nova4 text field formatted as input group
 
-Take a look on our Github repositories as we have a lot of forked nova components with fixes that are still not merge into main owner branch.
+Take a look to our Github repositories as we have a lot of forked nova components with fixes that are still not merge into main owner branch.
 
 ## License
 
