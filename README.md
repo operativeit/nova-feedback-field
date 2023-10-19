@@ -7,6 +7,9 @@ An **Emoji feedback field** to use in your Laravel Nova 4 apps
 ![GitHub forks](https://img.shields.io/github/forks/operativeit/nova-feedback-field)
 ![GitHub issues](https://img.shields.io/github/issues/operativeit/nova-feedback-field)
 
+![imagen](https://github.com/operativeit/nova-feedback-field/assets/188766/82a4115c-ab08-439f-b858-1266536fd5c2)
+
+
 ## Installation
 
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
