@@ -1,4 +1,4 @@
-# nova-feedback-field
+# Nova Feedback Field
 
 An **Emoji feedback field** to use in your Laravel Nova 4 apps
 
