@@ -2,6 +2,8 @@
 
 An **Emoji feedback field** to use in your Laravel Nova 4 apps
 
+THIS FIELD IS STILL IN A VERLY EARLY DEVELOPMENT STAGE. Testing, report bugs and improvements are welcome.
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/operativeit/nova-feedback-field.svg?style=flat-square)](https://packagist.org/packages/operativeit/nova-rating-field)
 [![Total Downloads](https://img.shields.io/packagist/dt/operativeit/nova-feedback-field.svg?style=flat-square)](https://packagist.org/packages/operativeit/nova-rating-field)
 ![GitHub forks](https://img.shields.io/github/forks/operativeit/nova-feedback-field)
