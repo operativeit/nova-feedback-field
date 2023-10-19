@@ -1,13 +1,24 @@
 {
     "name": "eom-plus/nova-feedback-field",
-    "description": "A Laravel Nova field.",
+    "description": "A Laravel Nova Feedback field.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "feedback",
+        "emoji",
+        "field"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastien CRAMATTE",
+            "email": "oss@operativeit.es",
+            "homepage": "https://operativeit.es"
+        }
+    ],
     "require": {
-        "php": "^7.3|^8.0"
+        "php": "^7.3|^8.0",
+        "laravel/nova": "^4.0"
     },
     "autoload": {
         "psr-4": {
